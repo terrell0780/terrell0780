@@ -1,6 +1,6 @@
 # Terrell Hall — agentic security & automation
 
-I build agent systems, then break them on purpose.
+I build AI agent systems — and audit them before attackers do.
 
 **Victoria, BC, Canada** · [terrell0780@gmail.com](mailto:terrell0780@gmail.com)
 
