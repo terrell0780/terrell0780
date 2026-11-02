@@ -16,6 +16,7 @@ I build AI agent systems — and audit them before attackers do.
 
 | Project | What it is |
 | --- | --- |
+| [ServiceDesk API](https://github.com/terrell0780/servicedesk-demo) | FastAPI + SQLite backend: clients → jobs → invoices, live outstanding balance, 12 tests, Docker |
 | [Elitze-Secure](https://github.com/terrell0780/Elitze-Secure) | Agentic security showcase — multi-agent fleet, live TLS/header analysis, compliance-gated outreach |
 | Aegis Prime pipeline *(private)* | CrewAI + Groq/Ollama crew over 7 public job & bounty sources: scam filters, RAG over past wins, draft-PR rail, human approval on every outbound action |
 
