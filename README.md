@@ -21,6 +21,8 @@ I build AI agent systems — and audit them before attackers do.
 
 ## Services — fixed price
 
+**→ Full details: https://terrell0780.github.io/elitze-site/**
+
 | Package | Price (CAD) | Turnaround |
 | --- | --- | --- |
 | **Quick Pass** — static review of an npm/PyPI artifact | **$500** | 3 business days |
