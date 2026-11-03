@@ -16,7 +16,7 @@ I build AI agent systems — and audit them before attackers do.
 
 | Project | What it is |
 | --- | --- |
-| [Elitze-Secure](https://github.com/terrell0780/Elitze-Secure) | Agentic security control plane — Supabase Auth, Postgres RLS, TOTP MFA, live health checks, persisted test requests |
+| [Elitze-Secure](https://github.com/terrell0780/Elitze-Secure) | Agent identity & MCP runtime security — discover agents and MCP servers, map what each identity can reach, enforce policy before sensitive tool execution, keep tamper-evident evidence |
 | [ServiceDesk API](https://github.com/terrell0780/servicedesk-demo) | FastAPI + SQLite backend: clients → jobs → invoices, live outstanding balance, 12 tests, Docker |
 
 ## Services — fixed price
