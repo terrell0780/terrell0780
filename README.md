@@ -1,8 +1,8 @@
-# Terrell Hall — agentic security & automation
+# Terrell Hall — Elitze Agentic Security
 
 I build AI agent systems — and audit them before attackers do.
 
-**Victoria, BC, Canada** · [terrell0780@gmail.com](mailto:terrell0780@gmail.com)
+**Elitze Agentic Security** · Victoria, BC, Canada · [terrell0780@gmail.com](mailto:terrell0780@gmail.com)
 
 ---
 
